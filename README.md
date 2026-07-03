@@ -20,6 +20,8 @@ Grafana
 Loki
 Docker
 Optional LLM integration for reasoning and explanation
+
+
 Folder Structure
 kube-troubleshooting-agent/
 ├── backend/
@@ -31,6 +33,8 @@ kube-troubleshooting-agent/
 ├── docs/
 ├── examples/
 └── README.md
+
+
 Getting Started
 Prerequisites
 Python 3.11+
